@@ -30,6 +30,6 @@ A selection of frequently used resources to have fast access.
 * [CrabNET](https://www.nature.com/articles/s41524-021-00545-1)
 
 ## Assistants
-Prof. Nicola Spaldin, [nicola.spaldin@mat.ethz.ch](mailto:nicola.spaldin@mat.ethz.ch)
-Dr. Aria Mansouri Tehrani, [aria.mansouri.t@mat.ethz.ch](mailto:aria.mansouri.t@mat.ethz.ch)
-Dr. Carl Romao, [carl.romao@mat.ethz.ch](mailto:carl.romao@mat.ethz.ch)
+Prof. Nicola Spaldin, [nicola.spaldin@mat.ethz.ch](mailto:nicola.spaldin@mat.ethz.ch)  
+Dr. Aria Mansouri Tehrani, [aria.mansouri.t@mat.ethz.ch](mailto:aria.mansouri.t@mat.ethz.ch)  
+Dr. Carl Romao, [carl.romao@mat.ethz.ch](mailto:carl.romao@mat.ethz.ch)  
