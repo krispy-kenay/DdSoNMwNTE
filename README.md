@@ -1,11 +1,12 @@
 # Data-driven Search of New Materials with Negative Thermal Expansion
 
-Private project for the Machine Learning Semesterproject. 
+Private project for the Machine Learning Semesterproject.
 
 
 ## Table of Contents
 * Resources
-* TBA
+* Motivation
+* Steps
 * Assistants
 
 ## Resources
@@ -24,6 +25,7 @@ A selection of frequently used resources to have fast access.
 * [Python](https://docs.python.org/3/)
 * [Numpy](https://numpy.org/doc/1.23/)
 * [Seaborn](https://seaborn.pydata.org/tutorial.html)
+* [Dscribe](https://singroup.github.io/dscribe/latest/tutorials/tutorials.html)
 
 ### Articles
 * [Best Practices](https://pubs.acs.org/doi/10.1021/acs.chemmater.0c01907#)
