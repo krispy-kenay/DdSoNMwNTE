@@ -24,3 +24,31 @@ Short Log where we can write what tasks we performed, what problems we had and o
 * [xtal2png](https://github.com/sparks-baird/xtal2png)
 * [Topological Representation Article](https://www.nature.com/articles/s41524-021-00493-w.pdf)
 * [Topological Representation Github](https://github.com/PKUsamPHTeam/ASPH-Code)
+
+## 12.10
+**Main Goal:** FORGOR
+
+**Problems:**
+
+**Relevant Links:**
+
+## 14.10
+**Main Goal:** Try out more featurization methods, Create notebook with basics (Lara)
+
+**Problems:**
+
+**Relevant Links:**
+
+## 19.10
+**Main Goal:** Feature Visualization and xtal2png
+
+**Problems:** Ram provided by Colab was not enough to do some of the visualization since the feature vectors were 100'000+ long, switched to seaborn which took some time to figure out
+
+**Relevant Links:**
+
+## 21.10
+**Main Goal:** Downloading the .cif files with the API, finally doing ASPH code
+
+**Problems:**
+
+**Relevant Links:**
