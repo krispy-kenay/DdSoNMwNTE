@@ -49,6 +49,15 @@ Short Log where we can write what tasks we performed, what problems we had and o
 ## 21.10
 **Main Goal:** Downloading the .cif files with the API, finally doing ASPH code
 
-**Problems:**
+**Problems:** ASPH returns error (Aria will try it out), not enough time/capacity to do .cif download
 
 **Relevant Links:**
+
+## 26.10
+**Main Goal:** Downloading the .cif files with the API
+
+**Problems:** 
+
+**Relevant Links:**
+* [ICSD client](https://github.com/lrcfmd/ICSDClient)
+* [Materials Data API scrips](https://github.com/simonverret/materials_data_api_scripts)
