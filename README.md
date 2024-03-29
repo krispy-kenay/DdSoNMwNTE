@@ -1,7 +1,6 @@
 # Data-driven Search of New Materials with Negative Thermal Expansion
 
-Private project for the Machine Learning Semesterproject.
-
+Analyzing structural chemical data using a combination of machine learning and neural networks to predict whether a material has a negative or positive thermal expansion coefficient. This was done in the hopes of applying the models on untested materials to find potential candidates!
 
 ## Table of Contents
 * Navigation
