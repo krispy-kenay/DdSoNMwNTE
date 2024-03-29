@@ -13,10 +13,7 @@ Private project for the Machine Learning Semesterproject.
 To follow the structure of the code, the numbered `.ipynb` files can be run to reproduce the code at the given point in the project.
 
 ### DATA Folder
-The files produced in the DATA folder are mostly too big to fit on github (up to 5 Gb in size for the largest), instead we uploaded the folder onto gDrive which can be downloaded with the [link](https://drive.google.com/drive/folders/1rRWyQRKyIY2AzekJNtG-EQ7plGoAbCUa?usp=sharing) here. 
-
-**Note** : the `.cif` files are located in the `DATA/zip` folder from where they should be extracted to the `DATA/cifs` folder to work correctly with the code. This was done to make downloads faster, as downloading 500k small files is slower than downloading two large files. 
-
+The files produced in the DATA folder are mostly too big to fit on github (up to 5 Gb in size for the largest), instead we uploaded the folder onto gDrive which can unfortunately no longer be downloaded.
 
 ## Resources
 
